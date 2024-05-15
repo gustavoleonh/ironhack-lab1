@@ -210,3 +210,5 @@ fatal: Need to specify how to reconcile divergent branches.
 `git push origin feature/dev-pull-request`
 
 Pull request URL: https://github.com/gustavoleonh/ironhack-lab1/pull/1
+
+![image](https://github.com/gustavoleonh/ironhack-lab1/assets/116121540/d4043bf0-ea35-4f77-a40a-b948564936f3)
