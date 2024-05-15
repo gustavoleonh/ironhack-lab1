@@ -5,3 +5,4 @@ new line 2
 new line 3
 new line 4
 
+Adding version 10.4.5 of lib-xxxx
