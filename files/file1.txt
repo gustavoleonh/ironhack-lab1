@@ -2,3 +2,4 @@ This is file 1
 
 Adding new feature
 
+Adding version 10.4.5 of lib-xxxx
